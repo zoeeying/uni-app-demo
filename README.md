@@ -4,7 +4,9 @@
 
 这里面有两个项目，uni-app-demo 是通过命令行创建的项目，uni-app-demo2 是通过 HBuilderX 创建的项目。
 
-**uni-app-demo 项目启动方法如下（以微信小程序为例）：**
+下面是以**微信小程序**为例的两个项目的启动方法：
+
+#### (1) uni-app-demo
 
 **步骤一：** 安装依赖
 
@@ -20,7 +22,7 @@ npm install # 安装依赖
 npm run dev:mp-weixin #微信小程序
 ```
 
-**uni-app-demo2 项目启动方法如下（以微信小程序为例）：**
+#### (2) uni-app-demo2
 
 安装微信开发者工具 => 点击 HBuilderX 工具栏的运行 => 运行到小程序模拟器 => 微信开发者工具，即可在微信开发者工具里面预览 uni-app。
 
